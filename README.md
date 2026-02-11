@@ -142,8 +142,11 @@ If computation becomes expensive, you may use a **smaller subset** of the data.
 ## 📁 Suggested Repository Structure
 
 ├── data/
+
 ├── notebooks/
+
 ├── src/
+
 └── README.md
 
 ---
